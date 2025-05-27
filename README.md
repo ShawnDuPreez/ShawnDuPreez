@@ -51,7 +51,7 @@ A conceptual platform connecting farmers with green energy providers.
 
 ## 📈 Stats
 
-![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=st10294003&show_icons=true&theme=github_dark)
+![Shawn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShawnDuPreez&show_icons=true&theme=github_dark)
 
 ---
 
